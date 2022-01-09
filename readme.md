@@ -5,7 +5,7 @@
 ## Базовый модуль. Тема 1, Лекции 1-4
 
 ### Тема 1.0. Установка Python и PyCharm. Первая программа. Правила оформления кода Python
-* ### Тема 1.0. Установка Python и PyCharm [Contribution guidelines for this project]("Тема 1.0 Установка Python и PyCharm.pdf")
+* ### Тема 1.0. Установка Python и PyCharm [Contribution](Тема%201.0%20Установка%20Python%20и%20PyCharm.pdf)
 * ### Создание простейшей программы Python в оболочке PyCharm
 * ### Правила оформления кода Python
 * ### Тема 1.1 Типы данных Python. Обзор. Простые типы данных. Числа. Строки. Переменные.
